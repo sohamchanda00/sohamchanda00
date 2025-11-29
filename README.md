@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Soham Chanda</h1>
 <h3 align="center">Computer Science Engineer | Cyber Security Enthusiast | Maker & Builder</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sohamchanda00&style=for-the-badge"  />
-</p>
+
 
 ---
 
