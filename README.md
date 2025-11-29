@@ -17,7 +17,6 @@ I enjoy building tools, testing systems, and experimenting with embedded devices
 ## 🔐 **What I Do**
 
 - Explore **network security**, **secure coding**, **encryption**, and OS concepts  
-- Build automations and system-level tools  
 - Work with Raspberry Pi boards, microcontrollers & sensors  
 - Create educational cybersecurity & automation projects  
 - Develop software tools in **Python, Java, C++, JavaScript**
@@ -53,9 +52,6 @@ Python, Java, C++, JavaScript
 
 **Web Development:**  
 HTML, CSS
-
-**Platforms & Tools:**  
-Raspberry Pi, OpenMediaVault, CircuitPython, Git, Linux
 
 **Cyber Security Interests:**  
 Secure coding, encryption, vulnerability analysis, automation testing, HID emulation
