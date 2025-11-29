@@ -80,19 +80,6 @@ Secure coding, encryption, vulnerability analysis, automation testing, HID emula
 
 ---
 
-## 📊 **GitHub Stats**
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sohamchanda00&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sohamchanda00&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohamchanda00&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## ⚡ **Fun Fact**
 I love experimenting with **microcontrollers, DIY hardware**, and anything that involves building something from scratch 😄
 
